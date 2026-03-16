@@ -1,0 +1,110 @@
+[
+  {
+    "id": "T-101",
+    "title": "Password Reset Loop",
+    "description": "User receives reset email but link redirects to 404 page.",
+    "customer": "Global Tech",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-10T08:30:00Z"
+  },
+  {
+    "id": "T-102",
+    "title": "Slow Dashboard Loading",
+    "description": "Data visualization widgets take 10s+ to render for large datasets.",
+    "customer": "Innovate Inc",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-11T09:15:00Z"
+  },
+  {
+    "id": "T-103",
+    "title": "Bulk Export Failure",
+    "description": "CSV export crashes when selecting more than 5,000 rows.",
+    "customer": "Acme Corp",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2026-03-11T14:45:00Z"
+  },
+  {
+    "id": "T-104",
+    "title": "Dark Mode Request",
+    "description": "Client requesting native dark mode for the mobile application.",
+    "customer": "Zenith Ltd",
+    "priority": "Low",
+    "status": "Backlog",
+    "createdAt": "2026-03-12T11:20:00Z"
+  },
+  {
+    "id": "T-105",
+    "title": "Billing Discrepancy",
+    "description": "Monthly invoice shows incorrect seat count for March.",
+    "customer": "DataStream",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-12T16:05:00Z"
+  },
+  {
+    "id": "T-106",
+    "title": "API Timeout (Error 504)",
+    "description": "Integration endpoint timing out during peak hours (10 AM - 12 PM).",
+    "customer": "CloudNine",
+    "priority": "Urgent",
+    "status": "In Progress",
+    "createdAt": "2026-03-13T10:10:00Z"
+  },
+  {
+    "id": "T-107",
+    "title": "Broken Image Links",
+    "description": "Profile pictures in the team directory are not loading.",
+    "customer": "Startuply",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-13T13:22:00Z"
+  },
+  {
+    "id": "T-108",
+    "title": "Two-Factor Auth Issue",
+    "description": "SMS codes are arriving 15 minutes late for international users.",
+    "customer": "Global Tech",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-14T07:50:00Z"
+  },
+  {
+    "id": "T-109",
+    "title": "Typo in User Guide",
+    "description": "Word 'Schedule' is misspelled as 'Shedul' in the PDF documentation.",
+    "customer": "EduSmart",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-03-14T11:00:00Z"
+  },
+  {
+    "id": "T-110",
+    "title": "Feature: Slack Bot",
+    "description": "Requesting a webhook-based notification system for Slack.",
+    "customer": "Innovate Inc",
+    "priority": "Medium",
+    "status": "Backlog",
+    "createdAt": "2026-03-14T15:30:00Z"
+  },
+  {
+    "id": "T-111",
+    "title": "Mobile App Crash",
+    "description": "App closes instantly upon opening the 'Reports' tab on Android.",
+    "customer": "Acme Corp",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-15T09:12:00Z"
+  },
+  {
+    "id": "T-112",
+    "title": "GDPR Deletion Request",
+    "description": "User requested full account and data deletion per privacy laws.",
+    "customer": "Individual User",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-15T14:05:00Z"
+  }
+]
