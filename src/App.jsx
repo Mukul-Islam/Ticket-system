@@ -9,7 +9,7 @@ import Footer from './Components/Footer/Footer'
 import { ToastContainer, toast } from 'react-toastify';
 // import img2 from './assets/vector2.png'
 
-const ticket = () => fetch('./ticket.json')
+const ticket = () => fetch('/ticket.json')
   .then(res => res.json())
 
 
